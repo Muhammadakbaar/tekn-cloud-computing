@@ -3,7 +3,7 @@
 
 - Ini adalah model layanan cloud dasar untuk IaaS, PaaS, dan SaaS.
 
-   ![01](https://github.com/muhammadakbaar/tekn-cloud-computing/minggu-02/gambar-02.jpg)
+   ![01](https://github.com/muhammadakbaar/tekn-cloud-computing/blob/main/minggu-02/gambar-02.jpg)
 
 
      ### IaaS (Infrastructure as a Service)
