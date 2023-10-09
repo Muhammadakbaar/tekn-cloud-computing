@@ -1,4 +1,6 @@
 
+# Latihan 1
+
 ## 01. Perbedaan antara IaaS, SaaS, and PaaS?
 
 - Ini adalah model layanan cloud dasar untuk IaaS, PaaS, dan SaaS.
@@ -87,7 +89,9 @@ Membangun produk untuk cloud berarti membangun produk dengan bahasa pemrograman 
 ### Kesimpulan cara membangun cloud-based SaaS Application.
 Dengan Python, MongoDB – sebagai database berorientasi dokumen yang hebat, RabbitMQ dari segi perangkat lunak pengaturan dasar dilakukan. Namun, ada lebih banyak cara untuk dipikirkan.
 
-#### 2. Carilah 2 layanan SaaS, cari juga software desktop / non cloud yang mempunyai fungsionalitas sama dengan layanan SaaS tersebut.
+# Latihan 2
+
+####  Carilah 2 layanan SaaS, cari juga software desktop / non cloud yang mempunyai fungsionalitas sama dengan layanan SaaS tersebut.
 
 layanan SaaS :
  - Canva
