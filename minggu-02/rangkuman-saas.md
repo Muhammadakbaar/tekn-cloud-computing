@@ -23,8 +23,8 @@
 
 Gambar ini menjelaskan perbedaan yang lebih rinci:
 
- ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/minggu-02/gambar-03.jpg)
- ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/minggu-02/gambar-04.jpg)
+ ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/blob/main/minggu-02/gambar-03.jpg)
+ ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/blob/main/minggu-02/gambar-04.jpg)
  
  ## 02. SaaS Platform Architecture.
    SaaS adalah model lisensi dan pengiriman perangkat lunak di mana perangkat lunak dilisensikan berdasarkan langganan dan dihosting secara terpusat. Pengguna dapat mengaksesnya dengan bantuan browser web.
@@ -34,7 +34,7 @@ Gambar ini menjelaskan perbedaan yang lebih rinci:
  - Vertical SaaS -> Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk industri perawatan kesehatan, pertanian, real estat, keuangan)
  - Horizontal SaaS -> Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
-   ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/minggu-02/gambar-05.jpg)
+   ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/blob/main/minggu-02/gambar-05.jpg)
 
  ### Keuntungan dari SaaS :
  Ini menawarkan peluang besar bagi organisasi dari semua ukuran untuk mengalihkan risiko akuisisi perangkat lunak, dan untuk memindahkan TI dari pusat biaya reaktif menjadi bagian proaktif yang menghasilkan nilai dari perusahaan. Model pengiriman sesuai permintaan mengubah beberapa hal ini. Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Ini menghilangkan atau secara drastis mengurangi komitmen sumber daya di muka.
@@ -53,7 +53,7 @@ Gambar ini menjelaskan perbedaan yang lebih rinci:
   
   Mengapa menggunakan SaaS Architecture?
 
-   ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/minggu-02/gambar-06.jpg)
+   ![03](https://github.com/muhammadakbaar/tekn-cloud-computing/blob/main/minggu-02/gambar-06.jpg)
   
   Seperti yang disebutkan dalam pendahuluan, perangkat lunak telah didistribusikan kepada pelanggan di berbagai saluran selama beberapa dekade terakhir.  Saluran distribusi yang lebih baru adalah Software as a Service (atau SaaS).
   Dari sudut pandang konsumen, aplikasi SaaS adalah salah satu cara termudah dan paling dapat diandalkan untuk menggunakan layanan atau produk digital. Anda cukup mengaksesnya melalui web, membayar layanan, dan menggunakannya.
