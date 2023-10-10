@@ -6,20 +6,20 @@ Login pada sistem Ubuntu dengan VirtualBox dari terminal ketikkan perintah ini
 
 ![1](gambar-01.png)
 
-![2](m44/2.png)
+![2](gambar-02.png)
 
 Setelah selesai proses diatas, maka lakukan reboot, dengan menggunakan perintah 
 
-![3](m44/3.png)
+![3](gambar-03.png)
 
 ## Step 2 : Menambahkan Stack User
 Perintah yang digunakan adalah 
 
-![4](m44/4.png)
+![4](gambar-04.png)
 
 Gunakan perintah sudo untuk membuat akun tidak membutuhkan password. Setelah itu switch user dengan stack user
 
-![5](m44/6.png)
+![5](gambar-06.png)
 
 ```
 Perintah sudo su - stack digunakan untuk berpindah user stack, sedangkan sudo -su digunakan untuk beralih menggunakan root.
@@ -31,21 +31,21 @@ su - stack
 ```
 Kemudian, download git untuk mendapatkan Devstack dari github
 
-![6](m44/5.png)
+![6](gambar-05.png)
 
 Setekag sudah berhasil men-clone devstack, buatlah ```local.conf``` dengan 4 password dengan Host IP addressnya
 
-![7](m44/7.png)
+![7](gambar-07.png)
 
 Sudah terbentuk ```local.conf``` kemudian tambahkan beberapa konfigurasi sebagai berikut
 
-![8](m44/8.png)
+![8](gambar-08.png)
 
 ## Step 4 : Memulai OpenStack di Ubuntu dengan DevStack
 
 Memulai installasi Openstack dengan perintah
 
-![9](m44/9.png)
+![9](gambar-09.png)
 
 Dari perintah tersebut DevStack akan menginstall beberapa item seperti :
 - Keystone - Identity Service
