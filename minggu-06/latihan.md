@@ -1,8 +1,10 @@
 ## Install Go, MongoDb dan MySql
+![1](gambar-01)
 
 ## Program Go MySQL
 ```
 Mohon maaf disini dbms MySQL saya sedikit bermasalah di MX linux, sebagai alternatif saya menggantinya dengan PostgreSQL
+```
 
 ```
 package main
@@ -46,6 +48,10 @@ func main() {
 		log.Fatal(err)
 	}
 }
+```
+### Output
+
+![1](gambar-02.png)
 
 ## Program Go MongoDB
 
@@ -92,5 +98,7 @@ func main() {
 		log.Fatal(err)
 	}
 }
-
 ```
+
+### Output
+![1](gambar-03.png)
