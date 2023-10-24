@@ -55,7 +55,8 @@ func main() {
 
 ## Program Go MongoDB
 
-```package main
+```
+package main
 
 import (
 	"context"
