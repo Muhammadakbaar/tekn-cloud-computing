@@ -47,7 +47,7 @@ Untuk membuat bridge Linux di host docker dapat menggunakan perintah *```apk upd
 7. Lalu kita akan melihat antarmuka yang terhubung pada **docker0** setelah pembuatan container baru
 <div align="center"><img src="gambar/gambar-12.png"></div> 
 
-8. pada hasil diatas dapat dilihat bahwa setelah pembuatan container baru maka antarmuka akan terhubung pada **docker0**
+8. Pada hasil diatas dapat dilihat bahwa setelah pembuatan container baru maka antarmuka akan terhubung pada **docker0**
 Selanjutnya, memeriksa jaringan bridge kembali dengan meengetikkan perintah *```docker network inspect bridge```*
 <div align="center"><img src="gambar/gambar-13.png"></div> 
 <div align="center"><img src="gambar/gambar-14.png"></div> 
