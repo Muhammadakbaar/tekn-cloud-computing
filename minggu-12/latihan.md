@@ -1,7 +1,13 @@
-### Section #1 - What is Orchestration
+
+## Docker Orchestration Hands-on Lab
+
+### Section #1 : - What is Orchestration
+
 So, what is Orchestration anyways? Well, Orchestration is probably best described using an example. Let’s say that you have an application that has high traffic along with high-availability requirements. Due to these requirements, you typically want to deploy across at least 3+ machines, so that in the event a host fails, your application will still be accessible from at least two others. Obviously, this is just an example and your use-case will likely have its own requirements, but you get the idea.
 
-### Section #2 - Configure Swarm Mode
+
+### Section #2 : - Configure Swarm Mode
+
 1. Running things manually and on a single host would be to create a new container on node1 by running docker run -dt ubuntu sleep infinity
 ![01](gambar-01.png)
 2. You can verify our example container is up by running docker ps on node1.
