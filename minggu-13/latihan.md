@@ -14,7 +14,6 @@ You also need to install kubectl. See [Install tools]([url](https://kubernetes.i
 
 ## Create a minikube cluster
 1. Run this command ``` minikube start ```
-
 ![01](gambar-01.jpg)
 
 ## Open the Dashboard
