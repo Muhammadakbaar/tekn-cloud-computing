@@ -62,6 +62,7 @@ You also need to install kubectl. See [Install tools]([url](https://kubernetes.i
 ![10](gambar-11.jpg)
 
 5. This opens up a browser window that serves your app and shows the app's response
+
 ![11](gambar-12.jpg)
 
 ## Enable addons
